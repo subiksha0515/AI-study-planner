@@ -74,7 +74,9 @@ AI Study Planner is a web application designed to help students organize their s
     *   Start the study timer to implement the Pomodoro technique.
     *   Enjoy the calming music while you study!
 
-## Contributing 🤝
+## Contributing & Contributers🤝
+
+Contributor - [selvaganesh19](https://github.com/selvaganesh19)
 
 We welcome contributions to the AI Study Planner project!  Here's how you can get involved:
 
