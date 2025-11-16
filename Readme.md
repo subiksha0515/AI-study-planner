@@ -74,7 +74,7 @@ AI Study Planner is a web application designed to help students organize their s
 
 ## Contributing & Contributers🤝
 
-Contributor - [selvaganesh19](https://github.com/selvaganesh19)
+Contributor - [Selvaganesh](https://github.com/selvaganesh19)
 
 We welcome contributions to the AI Study Planner project!  Here's how you can get involved:
 
@@ -143,4 +143,4 @@ If you find this project helpful, please give it a star on GitHub!  Stars help u
 This project is licensed under the **MIT** License.
 
 ---
-🔗 GitHub Repo: https://github.com/subiksha0515/AI-study-planner 
+🔗 GitHub Repo: https://github.com/subiksha0515/AI-study-planner
