@@ -26,7 +26,7 @@ AI Study Planner is a web application designed to help students organize their s
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/AI-study-planner.git
+    git clone https://github.com/subiksha0515/AI-study-planner.git
     ```
 
 2.  **Navigate to the project directory:**
