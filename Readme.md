@@ -1,5 +1,3 @@
-
-```markdown
 # AI Study Planner 🚀
 
 [![GitHub stars](https://img.shields.io/github/stars/subiksha0515/AI-study-planner?style=social)](https://github.com/subiksha0515/AI-study-planner)
